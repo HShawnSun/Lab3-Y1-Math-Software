@@ -1,5 +1,5 @@
 %this script will create some functions
-x=linspace(-2,2);
+x=linspace(-2,2);     %100 points
 y=exp(x.^3-1);
 z=2*x.*y;
 w=x.*sin(x)+1;
